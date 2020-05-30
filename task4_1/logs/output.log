@@ -1,0 +1,19 @@
+10:59:09.597 [main] INFO  com.company.Main - completed without mistakes
+11:03:07.709 [main] INFO  com.company.Main - completed without mistakes
+02:46:06.531 [main] INFO  com.company.Main - completed without errors
+02:50:41.865 [main] INFO  com.company.Main - completed without errors
+02:51:20.325 [main] ERROR com.company.Main - Error: new planet set is empty
+02:51:20.330 [main] INFO  com.company.Main - completed without errors
+02:52:14.137 [main] ERROR com.company.Main - Error: new planet set is empty
+02:52:14.143 [main] INFO  com.company.Main - completed without errors
+02:53:14.125 [main] ERROR com.company.Main - Error: new planet set is empty
+02:53:44.015 [main] ERROR com.company.Main - Error: new planet set is empty
+02:54:15.181 [main] INFO  com.company.Main - completed without errors
+02:54:41.138 [main] ERROR com.company.Main - Error: new planet set is empty
+02:55:08.203 [main] INFO  com.company.Main - completed without errors
+02:59:42.215 [main] INFO  com.company.Main - completed without errors
+02:59:53.335 [main] ERROR com.company.Main - Error: new planet set is empty
+03:00:13.405 [main] INFO  com.company.Main - completed without errors
+12:53:21.473 [main] INFO  com.company.Main - completed without errors
+11:40:36.009 [main] INFO  com.company.Main - completed without errors
+11:52:12.855 [main] INFO  com.company.Main - completed without errors
